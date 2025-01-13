@@ -21,8 +21,7 @@
 - [Last.fm](https://www.last.fm/)
 
 # Friends
-- [Nam Khanh](https://github.com/kbasicx/Pages/blob/main/Nam%20Khanh.md)
-- [Manh Duy](https://github.com/kbasicx/Pages/blob/main/Manh%20Duy.md)
+- [Duck Kien](https://github.com/kbasicx/Pages/blob/main/Duck%20Kien.md)
 
 
 
